@@ -1,0 +1,16 @@
+to start the server , write the following command in the terminal of your code-editor:⏬
+                                                                                
+                                                                                node index.js
+
+THEN , copy-paste the followimg url in your browser:⏬
+
+                                        http://localhost:3000             -------------------------->  (u can paste this in multiple tabs to create multiple users😉)
+
+
+Keep in mind the given "source-code" might not work properly on the upcoming future.
+Because I tried to take help from some websites while making this app and it did not work because they were outdated.
+
+So I had to go socket.io website and had to figure it out all by myself.
+And it took me approx. 5 to 6 days to get it working.
+
+So, yeah pls keep this in mind.
