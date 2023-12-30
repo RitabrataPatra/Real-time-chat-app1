@@ -7,7 +7,7 @@ THEN , copy-paste the followimg url in your browser:⏬
                                         http://localhost:3000             -------------------------->  (u can paste this in multiple tabs to create multiple users😉)
 
 
-Keep in mind the given "source-code" might not work properly on the upcoming future.
+Keep in mind the given "source-code" might not work properly in the upcoming future.
 I am saying this because I tried to take help from some websites while making this app and it did not work because they were outdated.
 
 So I had to go socket.io website and had to figure it out all by myself.
